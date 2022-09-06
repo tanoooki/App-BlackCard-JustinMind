@@ -1,0 +1,10 @@
+﻿# Arquivo criado para a disciplina de Hands on Work II - UNIVALI
+
+A proposta da disciplina era identificar em seu ambiente de trabalho ou social, um problema que possa ser resolvido com o desenvolvimento de um sistema (web, gestão, operacional).
+
+A **Blackout Card Games** é uma loja de card games, RPG e jogos de tabuleiro situada no Centro de Itajaí, nela é possível comprar jogos de tabuleiro, miniaturas, figures, cartas/decks, alugar boardgames para jogar, realizar campanhas de RPG dentre outras coisas voltadas para o universo nerd. A loja possui uma boa estrutura física, porém carece de serviços na internet, possuindo apenas uma página no facebook desatualizada (última postagem abril/2020).
+A formulação de um app está centrada na notificação dos usuários frente as novidades e novos produtos disponíveis na loja, trazendo mais imersão e possibilidades de serviços oferecidos aos usuários. Dada essa informação, a criação de um aplicativo ao invés de um site em si se deu pela possibilidade de notificar o usuário sempre que alguma novidade chegue à loja.
+A ideia central deste projeto é criar um aplicativo de celular voltado para organizar encontros para jogos, vender produtos, listar os jogos disponíveis para locação, assim como reserva-los, trazendo assim mais proximidade e conhecimento do que é possível encontrar na loja física, além de fazer pedidos online.
+Sua aproximar o público dos produtos e serviços presentes no local para desenvolver melhor a empresa e aumentar a procura de serviços, parcerias, vendas, etc.
+O aplicativo irá possuir o design simples e com elementos de cardgames e RPG, com uma página inicial onde seriam mostradas as últimas novidades e produtos para venda. No canto superior da tela, à esquerda, possui um menu que mostrará as categorias disponíveis para o usuário navegar. As categorias disponíveis seriam: Loja, Torneios de TCG, Locação de Jogos e Mesa aberta (onde pessoas desconhecidas podem se organizar para se conhecerem e jogar).
+A solução para a loja é desenvolver meios de trazer e unir os usuários atualizados e interessados em consumir os produtos e serviços da Blackout Card games.
